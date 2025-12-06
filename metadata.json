@@ -1,0 +1,5 @@
+{
+  "name": "Binance Portfolio Tracker",
+  "description": "A real-time crypto portfolio dashboard connecting to Binance to track assets and view live BTC/ETH prices using WebSockets and React.",
+  "requestFramePermissions": []
+}
